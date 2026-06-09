@@ -1,0 +1,22 @@
+# Build & Output (Maven/Gradle)
+target/
+build/
+.gradle/
+.mvn/
+
+# IDEs
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+
+# Logs & Temp
+*.log
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.local
